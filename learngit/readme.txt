@@ -1,3 +1,2 @@
-Git is a version control system.
-Got os free spftware.
-
+git is a distributed version control system.
+Gitis free software
